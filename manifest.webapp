@@ -1,0 +1,13 @@
+{
+	"name": "RecordPush",
+	"version": "1",
+	"description": "Record video and push it to YouTube",
+	"icons": {
+		"128": ""
+	},
+	"launch_path": "index.html",
+	"type": "privileged",
+	"permissions": {
+		"systemXHR": {}
+	}
+}
